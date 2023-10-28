@@ -1,4 +1,9 @@
 .teste{
     display: grid;
-    grid-template-rows: 400px 400px 400px 400px 400px;
+    grid-template-rows: 100px 100px 100px 100px 100px;
+
+}
+
+.item{
+    background-color: rgb(227, 156, 57);
 }
